@@ -1,0 +1,6 @@
+X1000
+Podaj poprawną kolejność kolorów w złączu RJ-45, standard T-568B
+biało-pomarańczowy, pomarańczowy, biało-zielony, niebieski, biało-niebieski, zielony, biało-brązowy, brązowy
+biało-zielony, zielony, biało-pomarańczowy, niebieski, biało-niebieski, pomarańczowy, biało-brązowy, brązowy 
+pomarańczowy, biało-zielony, niebieski, biało-niebieski, zielony, biało-brązowy, brązowy, biało-pomarańczowy, 
+biało-brązowy, brązowy, zielony, biało-pomarańczowy, niebieski, biało-niebieski, biało-zielony,

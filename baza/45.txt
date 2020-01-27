@@ -1,0 +1,6 @@
+X1000
+Dlaczego przy pomiarach OTDR używa się impulsów o różnych czasach trwania?
+aby poprawić dynamikę reflektometru lub zwiększyć dystans pomiarowy
+aby uzyskać aproksymację liniową dla przedziałów odległości
+aby zmienić kształt charakterystyki pomiarowej
+aby uzyskać inną miarę transmisyjną światłowodu

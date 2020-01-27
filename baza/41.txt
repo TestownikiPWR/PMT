@@ -1,0 +1,6 @@
+X1000
+Metodą OTDR umożliwia pomiar
+tłumienia złączy (spawów i rozłącznych)
+współczynników macierzy transformacji
+środowiska pracy 
+rodzaju materiału osłony światłowodu

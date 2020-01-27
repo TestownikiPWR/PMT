@@ -1,0 +1,6 @@
+X0001
+Do parametrów wtórnych torów miedzianych zaliczamy: 
+upływność jednostkową 
+pojemność jednostkową 
+rezystancję jednostkową 
+tamowność

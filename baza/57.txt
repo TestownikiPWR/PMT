@@ -1,0 +1,6 @@
+X1000
+Co to niedopasowanie impedancji 
+niedopasowanie spowodowane różnicą impedancji na stykach
+niedopasowanie spowodowane różnicą impedancji płaszczy 
+niedopasowanie spowodowane różnicą średnic dwóch kabli 
+niedopasowanie spowodowane różną długością dwóch kabli

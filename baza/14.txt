@@ -1,0 +1,6 @@
+X1000 
+Jeœli promieñ œwiat³a przekracza granicê miêdzy dwoma materia³ami o ró¿nych wspó³czynnikach za³amania œwiat³a to:
+za³amanie œwiat³a nie wyst¹pi gdy k¹t padania wynosi 0 stopni
+zawsze wyst¹pi za³amanie œwiat³a
+prêdkoœæ œwiat³a nie zmieni siê je¿eli promieñ padaj¹cy porusza siê wzd³u¿ normalnej
+prêdkoœæ œwiat³a nigdy siê nie zmienia

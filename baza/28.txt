@@ -1,0 +1,6 @@
+X0100
+Rozpraszanie Rayleigha jest proporcjonalne do: (lambda-d³ugoœæ fali)
+lambda
+lambda^-4
+lambda^4
+1/lambda

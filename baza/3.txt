@@ -1,0 +1,6 @@
+X1100
+Podstawowe parametry skrêtki UTP
+impedancja falowa
+t³umiennoœæ jednostkowa
+dyspersja chromatyczna
+opóŸnienie

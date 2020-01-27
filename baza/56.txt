@@ -1,0 +1,6 @@
+X1000
+Współczynnik odbicia 
+p=(Z-ZC)/(Z+ZC)
+p=(Z+ZC)/(Z-ZC) 
+p=(Z-ZO)/(Z+ZO) 
+p=(Z+ZO)/(Z-ZO)

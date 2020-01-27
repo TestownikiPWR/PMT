@@ -1,0 +1,5 @@
+X010
+Œwiat³owód bêdzie prowadzi³ tylko jeden mod, je¿eli jego czêstotliwoœæ znormalizowana V bêdzie:
+>2,405
+<2,405
+>4,205

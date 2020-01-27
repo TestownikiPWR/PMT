@@ -1,0 +1,6 @@
+X1000
+Problem dupleksowej transmisji sygnałów w liniach dwuprzewodowych rozwiązuje się stosując: 
+technikę eliminacji echa
+podział przestrzeni 
+podział ze względu n
+podział transmisji

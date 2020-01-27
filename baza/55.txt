@@ -1,0 +1,6 @@
+X1000
+Szum impulsowy charakteryzuje się rzadko występującymi paczkami impulsów o wysokiej amplitudzie, spowodowanymi przeważnie:
+trakcją kolejową
+impulsami dzwonienia PTOS 
+komutacją łączy 
+komutacją pakietów

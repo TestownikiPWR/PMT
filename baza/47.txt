@@ -1,0 +1,6 @@
+X1000
+Co to jest kąt graniczny?
+maksymalny kąt pod jakim strumień pada na granicę ośrodków sin(a)=n2/n1
+minimalny kąt pod jakim strumień pada na granicę ośrodków sin(a)=n2/n1
+maksymalny kąt pod jakim strumień pada na granicę ośrodków sin(a)=n1/n2
+minimalny kąt pod jakim strumień pada na granicę ośrodków sin(a)=n1/n2

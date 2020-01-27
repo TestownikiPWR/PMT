@@ -1,0 +1,6 @@
+X0010  
+Dyspersja:
+powoduje, ¿e rdzeñ rozprzestrzenia siê i staje siê szerszy w miarê przesy³ania impulsów wzd³u¿ w³ókna
+powoduje, ¿e d³ugoœæ fali œwiat³a wzrasta wzd³u¿ w³ókna 
+powoduje poszerzenie impulsu w miarê jego propagacji wzd³u¿ w³ókna
+nie wystêpuje gdy wykorzystywane jest laserowe Ÿród³o œwiat³a

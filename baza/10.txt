@@ -1,0 +1,6 @@
+X1000
+T³umienie skrêtki utp:
+20db/100m
+20db/km
+2db/m
+2db/km

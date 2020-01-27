@@ -1,0 +1,6 @@
+X1000
+Tory symetryczne:
+składają się z dwóch przewodów, w których płynie prąd o takim samym natężeniu, ale o przeciwnym kierunku
+składają się z dwóch przewodów, w których płynie prąd o takim samym natężeniu i kierunku 
+płynie w nich prąd przez przewód sygnałowy, a drugi przewód jest ekranem 
+płynie w nich prąd przez przewód sygnałowy, a drugi przewód jest uziemieniem

@@ -1,0 +1,6 @@
+X1000
+Tłumienie światłowodu wyraża się w
+dB/km
+W/m
+V/A
+Ω/km

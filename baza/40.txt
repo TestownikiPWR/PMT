@@ -1,0 +1,6 @@
+X1000
+Czym jest cyrkulator optyczny? 
+pasywny przyrząd optyczny, zwykle 3- lub 4-portowy, służący do przełączania sygnałów pomiędzy portami w ustalonej kolejności.
+pasywny multiplekser falowy z zastosowaniem filtrów pasmowych 
+pasywna krotnica falowa stosowana w systemach WDM 
+pasywny sprzęgacz odbiciowy

@@ -1,0 +1,6 @@
+X0001
+Sprzêgacz 4x4 ma ³¹cznie:
+16 portów
+4 porty
+9 portów
+8 portów

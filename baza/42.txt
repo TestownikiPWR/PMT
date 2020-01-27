@@ -1,0 +1,6 @@
+X1000
+Standardowa średnica rdzenia i płaszcza dla światłowodu jednomodowego to: 
+średnica rdzenia ~ 10 μm, średnica płaszcza ~ 125 μm
+średnica rdzenia ~ 50 μm, średnica płaszcza ~ 125 μm 
+średnica rdzenia ~ 62.5 μm, średnica płaszcza ~ 125 μm 
+średnica rdzenia ~ 18 μm, średnica płaszcza ~ 66.3 μm 

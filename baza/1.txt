@@ -1,0 +1,6 @@
+X0010
+Typowa impedancja koncentryka:
+100ohm
+150ohm
+50 i 75 ohm
+1000ohm

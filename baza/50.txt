@@ -1,0 +1,6 @@
+X1000
+Podział sieci telekomunikacyjnych według przeznaczenia wiadomości 
+ruchowa
+zbiorowa 
+porozumieniowa 
+ruchoma

@@ -1,0 +1,6 @@
+X1000
+Apertura numeryczna 
+NA=sin(a)=nco2-ncl2
+NA=sin(a)=ncl2-nco2 
+NA=cos(a)=nco2-ncl2 
+NA=cos(a)=ncl2-nco2 

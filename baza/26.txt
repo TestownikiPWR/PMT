@@ -1,0 +1,6 @@
+X1000
+Wspó³czynnik za³amania rdzenia:
+jest wiêkszy ni¿ wspó³czynnik za³amania p³aszcza
+jest mniejszy ni¿ wspó³czynnik za³amania p³aszcza
+nie ma znaczenia gdy¿ œwiat³o jest zawsze prowadzone w rdzeniu
+jest taki sam jak wspó³czynnik za³amania p³aszcza

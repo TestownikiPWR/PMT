@@ -1,0 +1,6 @@
+X0100
+Je¿eli œwiat³o przechodzi z materia³u o wspó³czynniku za³amania 1,45 do materia³u o wspó³czynniku za³amania 1,0 to straty Fresnela na granicy oœrodków wynosz¹:
+0,3446 dB
+0,149 dB
+1,613 dB
+3dB

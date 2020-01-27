@@ -1,0 +1,6 @@
+X1000
+Typowa impedancja skrêtki
+100ohm
+150ohm
+50 i 75 ohm
+1000ohm

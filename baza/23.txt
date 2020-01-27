@@ -1,0 +1,6 @@
+X0100
+Je¿eli œwiat³o jest wprowadzane z w³ókna o œrednicy rdzenia 50 mikrometrów do w³ókna o œrednicy rdzenia 62,5 mikrometrów to straty wynosz¹:
++1,9 dB
+0 dB
+-1,9 dB
+16,8 dB
