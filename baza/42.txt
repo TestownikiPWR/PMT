@@ -1,6 +1,6 @@
 X1000
-Standardowa Å›rednica rdzenia i pÅ‚aszcza dla Å›wiatÅ‚owodu jednomodowego to: 
-Å›rednica rdzenia ~ 10 Î¼m, Å›rednica pÅ‚aszcza ~ 125 Î¼m
-Å›rednica rdzenia ~ 50 Î¼m, Å›rednica pÅ‚aszcza ~ 125 Î¼m 
-Å›rednica rdzenia ~ 62.5 Î¼m, Å›rednica pÅ‚aszcza ~ 125 Î¼m 
-Å›rednica rdzenia ~ 18 Î¼m, Å›rednica pÅ‚aszcza ~ 66.3 Î¼m 
+Standardowa œrednica rdzenia i p³aszcza dla œwiat³owodu jednomodowego to: 
+œrednica rdzenia ~ 10 µm, œrednica p³aszcza ~ 125 µm
+œrednica rdzenia ~ 50 µm, œrednica p³aszcza ~ 125 µm 
+œrednica rdzenia ~ 62.5 µm, œrednica p³aszcza ~ 125 µm 
+œrednica rdzenia ~ 18 µm, œrednica p³aszcza ~ 66.3 µm 

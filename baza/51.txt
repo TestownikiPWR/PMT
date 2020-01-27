@@ -1,6 +1,6 @@
 X1000
 Tory symetryczne:
-skÅ‚adajÄ… siÄ™ z dwÃ³ch przewodÃ³w, w ktÃ³rych pÅ‚ynie prÄ…d o takim samym natÄ™Å¼eniu, ale o przeciwnym kierunku
-skÅ‚adajÄ… siÄ™ z dwÃ³ch przewodÃ³w, w ktÃ³rych pÅ‚ynie prÄ…d o takim samym natÄ™Å¼eniu i kierunku 
-pÅ‚ynie w nich prÄ…d przez przewÃ³d sygnaÅ‚owy, a drugi przewÃ³d jest ekranem 
-pÅ‚ynie w nich prÄ…d przez przewÃ³d sygnaÅ‚owy, a drugi przewÃ³d jest uziemieniem
+sk³adaj¹ siê z dwóch przewodów, w których p³ynie pr¹d o takim samym natê¿eniu, ale o przeciwnym kierunku
+sk³adaj¹ siê z dwóch przewodów, w których p³ynie pr¹d o takim samym natê¿eniu i kierunku 
+p³ynie w nich pr¹d przez przewód sygna³owy, a drugi przewód jest ekranem 
+p³ynie w nich pr¹d przez przewód sygna³owy, a drugi przewód jest uziemieniem

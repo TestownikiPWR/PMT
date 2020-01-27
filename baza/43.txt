@@ -1,6 +1,6 @@
 X1000
-TÅ‚umienie Å›wiatÅ‚owodu wyraÅ¼a siÄ™ w
+T³umienie œwiat³owodu wyra¿a siê w
 dB/km
 W/m
 V/A
-Î©/km
+?/km

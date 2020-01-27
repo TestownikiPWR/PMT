@@ -1,6 +1,6 @@
 X1000
-Szum impulsowy charakteryzuje siÄ™ rzadko wystÄ™pujÄ…cymi paczkami impulsÃ³w o wysokiej amplitudzie, spowodowanymi przewaÅ¼nie:
-trakcjÄ… kolejowÄ…
+Szum impulsowy charakteryzuje siê rzadko wystêpuj¹cymi paczkami impulsów o wysokiej amplitudzie, spowodowanymi przewa¿nie:
+trakcj¹ kolejow¹
 impulsami dzwonienia PTOS 
-komutacjÄ… Å‚Ä…czy 
-komutacjÄ… pakietÃ³w
+komutacj¹ ³¹czy 
+komutacj¹ pakietów

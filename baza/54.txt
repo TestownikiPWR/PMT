@@ -1,6 +1,6 @@
 X1000
-Problem dupleksowej transmisji sygnaÅ‚Ã³w w liniach dwuprzewodowych rozwiÄ…zuje siÄ™ stosujÄ…c: 
-technikÄ™ eliminacji echa
-podziaÅ‚ przestrzeni 
-podziaÅ‚ ze wzglÄ™du n
-podziaÅ‚ transmisji
+Problem dupleksowej transmisji sygna³ów w liniach dwuprzewodowych rozwi¹zuje siê stosuj¹c: 
+technikê eliminacji echa
+podzia³ przestrzeni 
+podzia³ ze wzglêdu n
+podzia³ transmisji

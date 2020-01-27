@@ -1,6 +1,6 @@
 X1000
-Podaj poprawnÄ… kolejnoÅ›Ä‡ kolorÃ³w w zÅ‚Ä…czu RJ-45, standard T-568B
-biaÅ‚o-pomaraÅ„czowy, pomaraÅ„czowy, biaÅ‚o-zielony, niebieski, biaÅ‚o-niebieski, zielony, biaÅ‚o-brÄ…zowy, brÄ…zowy
-biaÅ‚o-zielony, zielony, biaÅ‚o-pomaraÅ„czowy, niebieski, biaÅ‚o-niebieski, pomaraÅ„czowy, biaÅ‚o-brÄ…zowy, brÄ…zowy 
-pomaraÅ„czowy, biaÅ‚o-zielony, niebieski, biaÅ‚o-niebieski, zielony, biaÅ‚o-brÄ…zowy, brÄ…zowy, biaÅ‚o-pomaraÅ„czowy, 
-biaÅ‚o-brÄ…zowy, brÄ…zowy, zielony, biaÅ‚o-pomaraÅ„czowy, niebieski, biaÅ‚o-niebieski, biaÅ‚o-zielony,
+Podaj poprawn¹ kolejnoœæ kolorów w z³¹czu RJ-45, standard T-568B
+bia³o-pomarañczowy, pomarañczowy, bia³o-zielony, niebieski, bia³o-niebieski, zielony, bia³o-br¹zowy, br¹zowy
+bia³o-zielony, zielony, bia³o-pomarañczowy, niebieski, bia³o-niebieski, pomarañczowy, bia³o-br¹zowy, br¹zowy 
+pomarañczowy, bia³o-zielony, niebieski, bia³o-niebieski, zielony, bia³o-br¹zowy, br¹zowy, bia³o-pomarañczowy, 
+bia³o-br¹zowy, br¹zowy, zielony, bia³o-pomarañczowy, niebieski, bia³o-niebieski, bia³o-zielony,

@@ -1,6 +1,6 @@
 X1000
-Do zjawisk zwiÄ…zanych z transmisjÄ… sygnaÅ‚Ã³w w liniach miedzianych nie zalicza/nie zaliczajÄ… siÄ™: 
+Do zjawisk zwi¹zanych z transmisj¹ sygna³ów w liniach miedzianych nie zalicza/nie zaliczaj¹ siê: 
 Symetria
-ZakÅ‚Ã³cenia
+Zak³ócenia
 Asymetria 
-ZnieksztaÅ‚cenia odbiciowe
+Zniekszta³cenia odbiciowe

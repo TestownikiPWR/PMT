@@ -1,6 +1,6 @@
 X1000
-Dlaczego przy pomiarach OTDR uÅ¼ywa siÄ™ impulsÃ³w o rÃ³Å¼nych czasach trwania?
-aby poprawiÄ‡ dynamikÄ™ reflektometru lub zwiÄ™kszyÄ‡ dystans pomiarowy
-aby uzyskaÄ‡ aproksymacjÄ™ liniowÄ… dla przedziaÅ‚Ã³w odlegÅ‚oÅ›ci
-aby zmieniÄ‡ ksztaÅ‚t charakterystyki pomiarowej
-aby uzyskaÄ‡ innÄ… miarÄ™ transmisyjnÄ… Å›wiatÅ‚owodu
+Dlaczego przy pomiarach OTDR u¿ywa siê impulsów o ró¿nych czasach trwania?
+aby poprawiæ dynamikê reflektometru lub zwiêkszyæ dystans pomiarowy
+aby uzyskaæ aproksymacjê liniow¹ dla przedzia³ów odleg³oœci
+aby zmieniæ kszta³t charakterystyki pomiarowej
+aby uzyskaæ inn¹ miarê transmisyjn¹ œwiat³owodu

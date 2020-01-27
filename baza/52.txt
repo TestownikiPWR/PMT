@@ -1,6 +1,6 @@
 X0001
-Do parametrÃ³w wtÃ³rnych torÃ³w miedzianych zaliczamy: 
-upÅ‚ywnoÅ›Ä‡ jednostkowÄ… 
-pojemnoÅ›Ä‡ jednostkowÄ… 
-rezystancjÄ™ jednostkowÄ… 
-tamownoÅ›Ä‡
+Do parametrów wtórnych torów miedzianych zaliczamy: 
+up³ywnoœæ jednostkow¹ 
+pojemnoœæ jednostkow¹ 
+rezystancjê jednostkow¹ 
+tamownoœæ

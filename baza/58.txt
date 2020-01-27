@@ -1,6 +1,6 @@
 X0010
-CzÄ™Å›Ä‡ okablowania pomiÄ™dzy punktem rozdzielczym, a gniazdem uÅ¼ytkownika to 
+Czêœæ okablowania pomiêdzy punktem rozdzielczym, a gniazdem u¿ytkownika to 
 gniazda abonenckie 
 okablowanie pionowe 
 okablowanie poziome
-poÅ‚Ä…czenie systemowe
+po³¹czenie systemowe

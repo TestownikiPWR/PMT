@@ -1,6 +1,6 @@
 X1000
-MetodÄ… OTDR umoÅ¼liwia pomiar
-tÅ‚umienia zÅ‚Ä…czy (spawÃ³w i rozÅ‚Ä…cznych)
-wspÃ³Å‚czynnikÃ³w macierzy transformacji
-Å›rodowiska pracy 
-rodzaju materiaÅ‚u osÅ‚ony Å›wiatÅ‚owodu
+Metod¹ OTDR umo¿liwia pomiar
+t³umienia z³¹czy (spawów i roz³¹cznych)
+wspó³czynników macierzy transformacji
+œrodowiska pracy 
+rodzaju materia³u os³ony œwiat³owodu

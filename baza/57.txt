@@ -1,6 +1,6 @@
 X1000
 Co to niedopasowanie impedancji 
-niedopasowanie spowodowane rÃ³Å¼nicÄ… impedancji na stykach
-niedopasowanie spowodowane rÃ³Å¼nicÄ… impedancji pÅ‚aszczy 
-niedopasowanie spowodowane rÃ³Å¼nicÄ… Å›rednic dwÃ³ch kabli 
-niedopasowanie spowodowane rÃ³Å¼nÄ… dÅ‚ugoÅ›ciÄ… dwÃ³ch kabli
+niedopasowanie spowodowane ró¿nic¹ impedancji na stykach
+niedopasowanie spowodowane ró¿nic¹ impedancji p³aszczy 
+niedopasowanie spowodowane ró¿nic¹ œrednic dwóch kabli 
+niedopasowanie spowodowane ró¿n¹ d³ugoœci¹ dwóch kabli

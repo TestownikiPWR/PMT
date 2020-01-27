@@ -1,6 +1,6 @@
 X1000
-Co to jest kÄ…t graniczny?
-maksymalny kÄ…t pod jakim strumieÅ„ pada na granicÄ™ oÅ›rodkÃ³w sin(a)=n2/n1
-minimalny kÄ…t pod jakim strumieÅ„ pada na granicÄ™ oÅ›rodkÃ³w sin(a)=n2/n1
-maksymalny kÄ…t pod jakim strumieÅ„ pada na granicÄ™ oÅ›rodkÃ³w sin(a)=n1/n2
-minimalny kÄ…t pod jakim strumieÅ„ pada na granicÄ™ oÅ›rodkÃ³w sin(a)=n1/n2
+Co to jest k¹t graniczny?
+maksymalny k¹t pod jakim strumieñ pada na granicê oœrodków sin(a)=n2/n1
+minimalny k¹t pod jakim strumieñ pada na granicê oœrodków sin(a)=n2/n1
+maksymalny k¹t pod jakim strumieñ pada na granicê oœrodków sin(a)=n1/n2
+minimalny k¹t pod jakim strumieñ pada na granicê oœrodków sin(a)=n1/n2
