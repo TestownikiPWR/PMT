@@ -1,0 +1,4 @@
+X01
+Straty zwiazane ze zgieciami sa niewielkie, rzedu czesci dB/km
+Falsz
+Prawda

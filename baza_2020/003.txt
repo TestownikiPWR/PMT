@@ -1,0 +1,5 @@
+X010
+Czy prędkość światła w światłowodzie jest większa od prędkości światła w próżni
+Tak
+Nie
+Jest taka sama

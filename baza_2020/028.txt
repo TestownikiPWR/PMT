@@ -1,0 +1,4 @@
+X10
+Tlumiennosc swiatlowodu nie zalezy od dlugosci propagowanej w nim fali swietlnej
+Falsz 
+Prawda

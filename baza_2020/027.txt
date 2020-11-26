@@ -1,0 +1,7 @@
+X01000
+Strata 1dB wystepuje podczas sprzegania zrodla o mocy 1mW ze swiatlowodem. Na jaka odleglosc mozna przeslac sygnal swiatlowodem o tlumieniu jednostkowym 0,5dB/km aby w odbiorniku, na koncu swiatlowodu, byl sygnal 0,1mW?
+10 km
+18 km
+20 km
+40 km
+1,8 km

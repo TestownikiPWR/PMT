@@ -1,0 +1,4 @@
+X10
+Mody (promienie) moga wyciekac ze swiatlowodu
+Tak
+Nie

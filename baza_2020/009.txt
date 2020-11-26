@@ -1,0 +1,5 @@
+X100
+Częstotliwość fali świetlnej przy przejściu między różnymi ośrodkami
+jest niezmienna
+zmniejsza się
+zwiększa się

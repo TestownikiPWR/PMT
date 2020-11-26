@@ -1,0 +1,5 @@
+X100
+Rozproszenie Rayleigha jest 
+Odrotnie proporcjonalne do czwartej potegi dlugosci fali
+Proporcjonalne do czwartej potegi dlugosci fali
+proporcjonalne do czwartej potegi wspolczynnika zalamania

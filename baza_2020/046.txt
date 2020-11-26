@@ -1,0 +1,5 @@
+X010
+Wspolczynnik zalamiania swiatla w rdzeniuu swiatlowodu jednomodowego:
+Jest mniejszy od wspolczynnika zalamania plaszcza
+Jest wiekszy od wsolczynnika zalamania plaszcza
+Jest taki sam jak wspolczynnik zalamania plaszcza

@@ -1,0 +1,5 @@
+X010
+Kat akceptacji
+To kat pod jakim swiatlo wychodzi ze swiatlowodu i trafia do odbiornika
+To maksymalny kat w stosunku do osi rdzenia wlokna, pod ktorym swiatlo wprowadzone do swiatlowodu nie bedzie z tego wlokna uciekac
+To maksymalny kat pod jakim mozna wygiac swiatlowod aby jeszcze sie nie zlamal

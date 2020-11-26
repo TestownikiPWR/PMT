@@ -1,0 +1,5 @@
+X010
+Aparatura numeryczna
+To wartosc powyzej ktorej w danym swiatlowodzie propaguje tylko jeden mod
+To liczba charakteryzujaca zdolnosc wlokna swiatlowodowego do transmisji promieni padajacych na jego czolo pod katem
+Mowi o ile zmienia sie predkosc swiatla przy przejsciu z osrodka o jednym wspolczynniku zalamania do osrodka o drugim, innym, wspolczynniku zalamania

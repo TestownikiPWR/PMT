@@ -1,0 +1,5 @@
+X101
+W swiatlowodach wilomodowych gradientowych
+Rdzen ma budowe warstwowa
+Wspolczynnik zalamania zmienia sie skokowo miedzy rdzeniem a plaszczem
+Wspolczynnik zalamiania rdzenia zmienia sie w sposob ciagly 

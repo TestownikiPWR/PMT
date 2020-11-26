@@ -1,0 +1,4 @@
+X10
+Generlanie uklady kompensujace dyspersje powinny miec
+Dodatnie i tak samo nachylone charakterystyki dyspersyjne jak kompensowany swiatlowod
+Ujemne i odwrotnie nachylone charakterystyki dyspersyjne jak kompensowany swiatlowod

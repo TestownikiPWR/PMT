@@ -1,0 +1,5 @@
+X100
+Wartosc aparatury numerycznej swiatlowodow jednomodowych jest:
+Mniejsza niz wartosc aparatury numerycznej swiatlowodow wielomodowych
+Taka sama jak wartosc aparatury numerycznej swiatlowodow wielomodowych
+Wieksza niz wartosc aparatury numerycznej swiatlowodow wielomodowych

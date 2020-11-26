@@ -1,0 +1,5 @@
+X001
+Dla jednomodowych wlokien krzemionkowych wartosc zerowa dyspersji wystepuje w okolicach
+850 nm
+1550 nm
+1280 nm

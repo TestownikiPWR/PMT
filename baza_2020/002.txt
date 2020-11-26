@@ -1,0 +1,8 @@
+X011101
+Światłowód telekomunikacyjny
+jest to przewód miedziany, w którym można wyróżnić obszar rdzenia i płaszcza
+jest cienkim włóknem szklanym wykonanym ze szkła krzemionkowego o przekroju kołowym i standardowej średnicy 125um
+cechują małe straty umożliwiające przesyłanie informacji na duże odległości bez potrzeby regeneracji sygnału
+cechuje całkowita niewrażliwość na zakłócenia i przesłuchy elektromagnetyczne
+to koncentryczny kabel miedziany o średnicy 125um
+to falowód dielektryczny służący do przesyłania światła z zakresu bliskiej podczerwieni jako nośnika informacji

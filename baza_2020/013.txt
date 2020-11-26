@@ -1,0 +1,6 @@
+X1000
+Prawo Snella
+opisujące zmianę kierunku biegu promienia światła przy przejściu przez granicę między dwoma ośrodkami przezroczystymi o roóżnych współczynnikach załamania
+charakteryzująca zdolność włókna światłowodowego do transmisji promieni padających na jego czoło pod kątem
+opisuje prędkość w danym ośrodku
+opisuje pojedynczy rodzaj drgań własnych światłowodu spełniający równanie falowe z warunkami brzegowymi zależnymi od wymiarów i konstrukcji światłowodu

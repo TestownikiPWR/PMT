@@ -1,0 +1,5 @@
+X100
+Transmisja światłowodowa odbywa się w zakresie
+od 800 nm do 1700 nm
+od 0,4 um do 0,7 um
+od 1,7 um do 3 um

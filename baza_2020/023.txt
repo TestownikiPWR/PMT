@@ -1,0 +1,5 @@
+X100
+Dyspersja materialowa
+To zaleznosc wspolczynnika zalamania materialu, z ktorego wykonany jest swiatlowod, od dlugosci fali
+Zalezy od geometrii wlokna oraz profilu wspolczynnika zalamania
+Opisuje zjawiska wynikajace z faktu, ze promienie nalezace do roznych modow rozchodza sie roznymi drogami, a wiec czas ich dotarcia na koniec swiatlowodu jest inny

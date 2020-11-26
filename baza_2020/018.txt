@@ -1,0 +1,6 @@
+X1000
+Dyspersja chromatyczna sklada sie z 
+Dyspersji materialowej i dyspersji falowodowej
+Z dyspersji miedzymodowej i dyspersji polaryzacyjnej
+Z dyspersji miedzymodowej i dyspersji materialowej
+Z dyspersji polaryzacyjnej i dyspersji falowodowe

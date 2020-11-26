@@ -1,0 +1,5 @@
+X001
+W swiatlowodzie wielomodowym propaguja sie:
+Tylko mod podstawowy
+Tylko mod wyzszego rzedu
+Mod podstawowy i mody wyzszego rzedu

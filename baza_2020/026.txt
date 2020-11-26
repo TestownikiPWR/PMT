@@ -1,0 +1,6 @@
+X1010
+Dyspersja
+Wynika z zaleznosci wspolczynnika od jego czestotliwosci
+To tlumienie sygnalu przypadajcego na jednostke dlugosci toru transmisyjnego
+Powoduje poszerzenie transmitowanego ipmulsu, co negatywanie wplywa na szybkosc przesylania infromacji
+to parametr opisujacy poziom/ilosc domieszki w rdzeniu

@@ -1,0 +1,5 @@
+X100
+Mod Światłowodowy
+jest to pojedynczy rodzaj drgań własnych światłowodu, spełniający równanie falowe z warunkami brzegowymi zależnymi od wymiarów i konstrukcji światłowodu
+to rodzaj złącza światłowodowego
+to kąt pod jakim światło pada na czoło światłowodu

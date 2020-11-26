@@ -1,0 +1,5 @@
+X100
+Miejsce zerowe dyspersji moze byc przesuniete do obszaru dlugofalowego
+Dzieki zastosowaniu odpowiednich domieszek lub modyfikujac geometrie wlokna
+Zawijajac swiatlowod w petle o okreslonym promieniu 
+Poprzez dolaczenie przesuwacza dyspersji

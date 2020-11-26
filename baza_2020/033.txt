@@ -1,0 +1,6 @@
+X1000
+Swiatlowod ma tlumienie 0,00435 dB/m. Jakie jest tluemienie odcinka 10 kilometrowego tego swiatlowodu?
+43,5 dB
+0,0435 dB
+4,35 dB
+0,01 dB

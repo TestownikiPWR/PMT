@@ -1,0 +1,4 @@
+X01
+Woda powoduje wzrost tlumiennosci swiatlowodu
+Nie
+Tak

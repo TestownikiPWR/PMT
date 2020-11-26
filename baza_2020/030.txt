@@ -1,0 +1,7 @@
+X10000
+1 metr swiatlowodu transmituje 99,9% wchodzacego do niego swiatla. Ile swiatla zostanie po przebyciu odcinka 10 km tego swiatlowodu
+0,0045%
+1%
+90%
+10%
+0,1%

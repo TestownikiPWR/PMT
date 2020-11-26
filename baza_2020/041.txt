@@ -1,0 +1,7 @@
+X01000
+Typowe wymiary swiatlowodu jednomodowego to:
+Srednica rdzenia 50 mikrometrow i srednica plaszcza 125 mikrometrow
+Srednica rdzenia 8 um i srednica plaszcza 125 mikrometrow
+Srednica rdzenia 62,5 um i srednica plaszcza 125 mikrometrow
+Promien rdzenia 8 mikrometrow i promien plaszcza 125 mikrometrow
+Promien rdzenia 50 mikrometrow i promien plaszcza 125 mikrometrow

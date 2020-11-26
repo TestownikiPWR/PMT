@@ -1,0 +1,5 @@
+X100
+W swiatlowodach wilomodowych dyspersje miedzymodowa da sie zmniejszyc przez
+Profilowanie wspolczynnika zalamania rdzenia
+Przez dolaczenie kompensatora dyspersji
+Przez zastosowanie swiatlowodu utrzymujacego polaryzacje

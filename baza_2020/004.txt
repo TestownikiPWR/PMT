@@ -1,0 +1,4 @@
+X10
+Długość fali przy przejściu między różnymi ośrodkami
+Może ulec zmianie
+Jest niezmienna

@@ -1,0 +1,5 @@
+X100
+Stała materiałowa, zwana współczynnikiem załamania n
+opisuje prędkość światła w danym ośrodku
+określa stopień łamliwości światłowodu
+opisuje kąt pod jakim światło propaguje w materiale

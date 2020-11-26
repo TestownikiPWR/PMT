@@ -1,0 +1,4 @@
+X10
+Prędkość światła
+Silnie zależy od ośrodka
+nie zależy od ośrodka
